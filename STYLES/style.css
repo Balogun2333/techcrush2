@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "bungee tint", sans-serif;
+    background-color: rgb(219,255,71);
+    color: black; !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    WIDTH: 30REM;
+    font-size: 62.5%; 
+
+}
+.HELLO {
+    font-size: 10rem;
+    }
+  img {
+    width: 50%;
+    height: 20%;
+  }
+  /* media query for mobile (smaller than 640px) */
+  @media (max-width: 640px) {
+
+  }
+  
